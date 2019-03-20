@@ -1,2 +1,2 @@
 some
-code in staging
+amazing code in staging
